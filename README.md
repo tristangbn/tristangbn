@@ -2,7 +2,7 @@
 - 👀 I’m interested in health, tech and industrial engineering
 - 🌱 I’m currently learning web development and how to make it accessible to everybody
 - 💞️ I’m looking to collaborate on challenging projects where people could gather their experiences
-- 📫 How to reach me @tristangbn on social media platforms
+- 📫 Reach me via @tristangbn on social media platforms
 
 <!---
 tristangbn/tristangbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
